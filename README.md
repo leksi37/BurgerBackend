@@ -9,6 +9,6 @@ Technology stack:
   SQLLite
 
 Current functionality:
-  CRUD (and some others) API Endpoints for Burger places, Burgers and Burgers' score.
+  CRUD API Endpoints for Burger places, Burgers and Burgers' score.
 Started functionality: 
   Location service to retrieve nearby burger places and information related to them.
